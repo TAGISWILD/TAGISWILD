@@ -21,5 +21,5 @@ Here are some ideas to get you started:
 - [How To Match Two Strings | Password Security System Basic Algorithm |](https://www.youtube.com/watch?v=8p5iEpsHkNk)
 - [How To Make A Custom Library | How to make Astdio.h |](https://www.youtube.com/watch?v=Zah9yV3nfzA)
 <!-- YOUTUBE:END -->
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<!--<!-- blogspot:START -->
+<!-- blogspot:END -->
