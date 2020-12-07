@@ -8,6 +8,9 @@
 - 📫 How to reach me: My [Telegram](http://t.me/MRTAG08)...
 - ⚡ Fun fact: I am Single...
 
+
+![](https://komarev.com/ghpvc/?username=TAGISWILD&color=blueviolet&style=plastic)
+
 ### My Latest Youtube Videos
 <!-- YOUTUBE:START -->
 - [Python turtle tutorial | Python Turtle 🐢 | very simple |](https://www.youtube.com/watch?v=vtbxHneHTkk)
@@ -25,4 +28,5 @@
 [<img align="left" alt="ucguy4u | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://www.youtube.com/channel/UCm3ENqOJ8IjAfHgk4UUf0CA)
 [<img align="left" alt="ucguy4u | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/telegram.svg" />](https://t.me/MRTAG08)
 [<img align="left" alt="ucguy4u | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/discord.svg" />](https://discord.gg/35gRezZMQ3)
+<br>
 
