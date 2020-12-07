@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on No One
 - 🤔 I’m looking for help with Myself
 - 💬 Ask me about C Language
-- 📫 How to reach me: My Email Or [Telegram](t.me/MRTAG08)
+- 📫 How to reach me: My Email Or [Telegram](http://t.me/MRTAG08)
 - ⚡ Fun fact: I am Single
 
 ### My Latest Youtube Videos
