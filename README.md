@@ -21,7 +21,7 @@
 <!-- YOUTUBE:END -->
 ### Get Connected With Me 😁
 [<img align="left" alt="| Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://instagram.com/mr.tag_08)
-[<img align="left" alt="ucguy4u | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter/ATHARVAK26)
+[<img align="left" alt="ucguy4u | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/ATHARVAK26)
 [<img align="left" alt="ucguy4u | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://www.youtube.com/channel/UCOH-KD7pGjspzUMwDchZjUw)
 [<img align="left" alt="ucguy4u | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" />](https://facebook.com/mr.tag08)
 [<img align="left" alt="| Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://instagram.com/mr.tag_08_pc)
