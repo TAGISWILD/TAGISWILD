@@ -29,5 +29,5 @@
 [<img align="left" alt="ucguy4u | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/telegram.svg" />](https://t.me/MRTAG08)
 [<img align="left" alt="ucguy4u | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/discord.svg" />](https://discord.gg/35gRezZMQ3)
 <br>
-### Uday is Currently Listening on spotify
+### Atharva is Currently Listening on spotify
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31fbagyalqe6pmxw7gat5p4a5ofe&cover_image=true)](https://spotify-github-profile.vercel.app/api/view?uid=31fbagyalqe6pmxw7gat5p4a5ofe&redirect=true)
