@@ -13,11 +13,11 @@
 
 ### My Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [How To Use Linux in Windows 7 | How To Download Cygwin |](https://www.youtube.com/watch?v=dwV0LjTdFLQ)
 - [How to use Ubuntu Linux On Windows | WSL |](https://www.youtube.com/watch?v=gBGlm8nbNk0)
 - [Time In C Language | RealTime | Made Only In 3 Minutes 😨😨](https://www.youtube.com/watch?v=0BNuzlvMkyA)
 - [PYTHON TURTLE TUTORIAL WINNER |](https://www.youtube.com/watch?v=HeVWRnGIeTI)
 - [AYSOAT CRAH software | Wordlist Maker|](https://www.youtube.com/watch?v=MnzBSwofSQs)
-- [Python turtle tutorial | Python Turtle 🐢 | very simple |](https://www.youtube.com/watch?v=vtbxHneHTkk)
 <!-- YOUTUBE:END -->
 ### Get Connected With Me 😁
 [<img align="left" alt="| Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://instagram.com/mr.tag_08)
