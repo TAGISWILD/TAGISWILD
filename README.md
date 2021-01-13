@@ -13,7 +13,7 @@
 
 ### My Latest Youtube Videos
 <!-- YOUTUBE:START -->
-- [A Bot For Zoom Meeting #shorts](https://www.youtube.com/watch?v=rMhOMQOTOdA)
+- [See this video before my school tells me to delete this | #shorts](https://www.youtube.com/watch?v=rMhOMQOTOdA)
 - [Logical Operators In C | What are Logical Operators | Aysoat | Binary Operators-1 |](https://www.youtube.com/watch?v=gaDmUOCUI0g)
 - [How to make AI Jarvis Assistant | How to make Alexa At Home |](https://www.youtube.com/watch?v=XFU6PPoN358)
 - [How to play sound in python | How to use playsound module in python](https://www.youtube.com/watch?v=xc3tc_s6n24)
