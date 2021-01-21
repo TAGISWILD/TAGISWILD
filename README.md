@@ -13,11 +13,11 @@
 
 ### My Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [What Are Relational Operators | Binary Operators-2 |](https://www.youtube.com/watch?v=SAr4Sy7CW20)
 - [See this video before my school tells me to delete this | #shorts](https://www.youtube.com/watch?v=rMhOMQOTOdA)
 - [Logical Operators In C | What are Logical Operators | Aysoat | Binary Operators-1 |](https://www.youtube.com/watch?v=gaDmUOCUI0g)
 - [How to make AI Jarvis Assistant | How to make Alexa At Home |](https://www.youtube.com/watch?v=XFU6PPoN358)
 - [How to play sound in python | How to use playsound module in python](https://www.youtube.com/watch?v=xc3tc_s6n24)
-- [How To Use Linux in Windows 7 | How To Download Cygwin | In Hindi |](https://www.youtube.com/watch?v=dwV0LjTdFLQ)
 <!-- YOUTUBE:END -->
 ### Get Connected With Me 😁
 [<img align="left" alt="| Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://instagram.com/mr.tag_08)
