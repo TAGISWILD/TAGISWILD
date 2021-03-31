@@ -13,7 +13,7 @@
 
 ### My Latest Youtube Videos
 <!-- YOUTUBE:START -->
-- [While loop - Game over](https://www.youtube.com/watch?v=Y3L_xfVpuCE)
+- [#shorts While loop - Game over #AysoatShorts](https://www.youtube.com/watch?v=Y3L_xfVpuCE)
 - [How to install Debian OS in your computer | Aysoat |](https://www.youtube.com/watch?v=QpIewgodC7o)
 - [Don't purchase YouTube music else build your own... | how to use youtube premium?](https://www.youtube.com/watch?v=AoQ7Z-VmKMA)
 - [What Are Relational Operators | Binary Operators-2 |](https://www.youtube.com/watch?v=SAr4Sy7CW20)
