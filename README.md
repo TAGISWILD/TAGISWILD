@@ -13,11 +13,11 @@
 
 ### My Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [What's New In Windows 11 | ISO download, #Windows11 leaked | Aysoat | [Hindi]](https://www.youtube.com/watch?v=uGgbhcKGCrE)
 - [How to download crack proteus | Microchip, Atmel all type of IC virtual simulation [Hindi Mein]](https://www.youtube.com/watch?v=I_rf-caUTeE)
 - [How to make a Kali LIve USB | Kali Live Persistence USB |](https://www.youtube.com/watch?v=AILo7yTQrcE)
 - [#shorts While loop - Game over #AysoatShorts](https://www.youtube.com/watch?v=Y3L_xfVpuCE)
 - [How to install Debian OS in your computer | Aysoat |](https://www.youtube.com/watch?v=QpIewgodC7o)
-- [Don't purchase YouTube music else build your own... | how to use youtube premium?](https://www.youtube.com/watch?v=AoQ7Z-VmKMA)
 <!-- YOUTUBE:END -->
 ### Get Connected With Me 😁
 [<img align="left" alt="| Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://instagram.com/mr.tag_08)
