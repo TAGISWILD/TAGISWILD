@@ -13,11 +13,11 @@
 
 ### My Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [How to install and run linux mint on your computer |  Linux Mint  2021 | [hindi]](https://www.youtube.com/watch?v=QTpOeqyS6aw)
 - [How to use Kali on Windows | What is WSL | Windows Subsystem for kali Linux | *Hindi Mein* | #Dekhko](https://www.youtube.com/watch?v=SxJGAa2aOZU)
 - [What's New In Windows 11 | ISO download, #Windows11 leaked | Aysoat | [Hindi]](https://www.youtube.com/watch?v=uGgbhcKGCrE)
 - [How to download crack proteus | Microchip, Atmel all type of IC virtual simulation [Hindi Mein]](https://www.youtube.com/watch?v=I_rf-caUTeE)
 - [How to make a Kali LIve USB | Kali Live Persistence USB |](https://www.youtube.com/watch?v=AILo7yTQrcE)
-- [#shorts While loop - Game over #AysoatShorts](https://www.youtube.com/watch?v=Y3L_xfVpuCE)
 <!-- YOUTUBE:END -->
 ### Get Connected With Me 😁
 [<img align="left" alt="| Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://instagram.com/mr.tag_08)
