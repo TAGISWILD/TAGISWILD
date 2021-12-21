@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there <img width="30px" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Hi.gif" />
 - 😊 I'm Atharva Chauhan a.k.a [Mr.Tag_08](http://tagiswild.github.io)
 - 🔭 I’m currently working on [Artist Albums](http://tagiswild.github.io/Artist-Albums)...
 - 🌱 I’m currently learning Java...
@@ -6,7 +6,6 @@
 - 🤔 I’m looking for help with Myself...
 - 💬 Ask me about C Language...
 - 📫 How to reach me: My [Telegram](http://t.me/MRTAG08)...
-- ⚡ Fun fact: I am Single...
 
 
 ![](https://komarev.com/ghpvc/?username=TAGISWILD&color=blueviolet&style=plastic)
@@ -29,6 +28,12 @@
 [<img align="left" alt="ucguy4u | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/telegram.svg" />](https://t.me/MRTAG08)
 [<img align="left" alt="ucguy4u | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/discord.svg" />](https://discord.gg/8Jyze84XsR)
 <br>
+___
+[![Atharva's GitHub stats](https://github-readme-stats.vercel.app/api?username=TAGISWILD)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Would be amazing if you contribute 😋
 
 <a href="https://www.buymeacoffee.com/mrtag08"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=mrtag08&button_colour=40DCA5&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00"></a>
+___
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31fbagyalqe6pmxw7gat5p4a5ofe)
+___
