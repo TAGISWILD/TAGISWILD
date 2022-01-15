@@ -1,3 +1,17 @@
+<h1 align="center"><code>Welcome to Atharva Chauhan's GitHub Page</code></h1>
+
+<p align="center">
+  <a href="https://twitter.com/MRTAG08"><img src="https://img.shields.io/badge/-@MRTAG08-00acee?style=flat&logo=Twitter&logoColor=white" /></a>
+  <a href="https://stackoverflow.com/users/13546363/atharva-chauhan"><img src="https://img.shields.io/badge/-AtharvaChauhan-f48225?style=flat&logo=Stackoverflow&logoColor=white" /></a>
+  <a href="https://github.com/TAGISWILD"><img src="https://img.shields.io/badge/-TAGISWILD-3a3a3a?style=flat&logo=GitHub&logoColor=white" /></a>
+  <a href="https://atharvachauhan.me"><img src="https://img.shields.io/badge/-AtharvaChauhan.me-ff5757?style=flat&logo=ApacheSpark&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/MRTAG08"><img src="https://img.shields.io/badge/-MRTAG08-0072b1?style=flat&logo=Linkedin&logoColor=white" /></a>
+</p>
+
+<p align="center">
+<img width="600" src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/github-snake.svg" />
+</p>
+
 ### Hi there <img width="30px" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Hi.gif" />
 - 😊 I'm Atharva Chauhan a.k.a [Mr.Tag_08](http://tagiswild.github.io)
 - 🔭 I’m currently working on [Artist Albums](http://tagiswild.github.io/Artist-Albums)...
