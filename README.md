@@ -1,4 +1,4 @@
-<h1 align="center"><code>Welcome to Atharva Chauhan's GitHub Page</code></h1>
+<h1 align="center"><code>Welcome to Chauhan's GitHub Page</code></h1>
 
 <p align="center">
   <a href="https://twitter.com/MRTAG08"><img src="https://img.shields.io/badge/-@MRTAG08-00acee?style=flat&logo=Twitter&logoColor=white" /></a>
