@@ -43,7 +43,7 @@
 [<img align="left" alt="ucguy4u | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/discord.svg" />](https://discord.gg/8Jyze84XsR)
 <br>
 ___
-[![Atharva's GitHub stats](https://github-readme-stats.vercel.app/api?username=TAGISWILD)](https://github.com/anuraghazra/github-readme-stats)
+[![Atharva's GitHub stats](https://github-readme-stats.vercel.app/api?username=TAGISWILD)](https://github.com/TAGISWILD/YoutubeMusic)
 
 ### Would be amazing if you contribute 😋
 
