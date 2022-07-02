@@ -12,17 +12,10 @@
 <img width="600" src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/github-snake.svg" />
 </p>
 
-### Hi there <img width="30px" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Hi.gif" />
-- 😊 I'm Atharva Chauhan a.k.a [Mr.Tag_08](http://tagiswild.github.io)
-- 🔭 I’m currently working on [Artist Albums](http://tagiswild.github.io/Artist-Albums)...
-- 🌱 I’m currently learning Java...
-- 👯 I’m looking to collaborate with No One...
-- 🤔 I’m looking for help with Myself...
-- 💬 Ask me about C Language...
-- 📫 How to reach me: My [Telegram](http://t.me/MRTAG08)...
+<a href="https://github.com/TAGISWILD">
+    <img width="500" src="https://readme-typing-svg.herokuapp.com?color=20C20E&width=450&height=50&lines=Hello+%F0%9F%91%8B;I'm+%40Atharva+Chauhan+a.k.a+MRTAG08...;and+I'm+making+awesome+things+everyday;Checkout+my+super+amazing+repos+now!" />
 
 
-![](https://komarev.com/ghpvc/?username=TAGISWILD&color=blueviolet&style=plastic)
 
 ### My Latest Youtube Videos
 <!-- YOUTUBE:START -->
