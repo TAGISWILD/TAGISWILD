@@ -8,9 +8,7 @@
   <a href="https://www.linkedin.com/in/MRTAG08"><img src="https://img.shields.io/badge/-MRTAG08-0072b1?style=flat&logo=Linkedin&logoColor=white" /></a>
 </p>
 
-<p align="center">
-<img width="600" src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/github-snake.svg" />
-</p>
+
 
 <a href="https://github.com/TAGISWILD">
     <img width="500" src="https://readme-typing-svg.herokuapp.com?color=20C20E&width=450&height=50&lines=Hello+%F0%9F%91%8B;I'm+%40Atharva+Chauhan+a.k.a+MRTAG08...;and+I'm+making+awesome+things+everyday;Checkout+my+super+amazing+repos+now!" />
