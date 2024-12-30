@@ -42,6 +42,4 @@ ___
 ### Would be amazing if you contribute 😋
 
 <a href="https://www.buymeacoffee.com/mrtag08"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=mrtag08&button_colour=40DCA5&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00"></a>
-___
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31fbagyalqe6pmxw7gat5p4a5ofe)
-___
+
