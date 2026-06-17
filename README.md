@@ -15,6 +15,21 @@
 
 <a href="https://github.com/TAGISWILD">
     <img width="500" src="https://readme-typing-svg.herokuapp.com?color=20C20E&width=450&height=50&lines=Hello+%F0%9F%91%8B;I'm+%40Atharva+Chauhan+a.k.a+MRTAG08...;and+I'm+making+awesome+things+everyday;Checkout+my+super+amazing+repos+now!" />
+</a>
+
+### GitRanks
+
+<p>
+  <a href="https://gitranks.com/profile/TAGISWILD">
+    <img src="https://gitranks.com/api/badge/v2/TAGISWILD?ranking=s&context=global&type=position&meta=monthly-change&cornerStyle=rounded" alt="TAGISWILD GitRanks stars rank" />
+  </a>
+  <a href="https://gitranks.com/profile/TAGISWILD">
+    <img src="https://gitranks.com/api/badge/v2/TAGISWILD?ranking=c&context=global&type=position&meta=monthly-change&cornerStyle=rounded" alt="TAGISWILD GitRanks contributor rank" />
+  </a>
+  <a href="https://gitranks.com/profile/TAGISWILD">
+    <img src="https://gitranks.com/api/badge/v2/TAGISWILD?ranking=f&context=global&type=position&meta=monthly-change&cornerStyle=rounded" alt="TAGISWILD GitRanks followers rank" />
+  </a>
+</p>
 
 
 
