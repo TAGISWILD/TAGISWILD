@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,py,nextjs,react,nodejs,mongodb,postgres,docker,gcp,linux,git&perline=6" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=ts,py,go,nextjs,react,nodejs,mongodb,postgres,docker,gcp,linux,git&perline=6" alt="Tech stack" />
 </p>
 
 <p align="center">
