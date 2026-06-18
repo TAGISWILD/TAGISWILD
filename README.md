@@ -28,3 +28,12 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TAGISWILD&theme=github_dark" alt="TAGISWILD repositories by language" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TAGISWILD&theme=github_dark" alt="TAGISWILD commits by language" />
 </p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TAGISWILD&theme=github_dark" alt="TAGISWILD GitHub stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TAGISWILD&theme=github_dark&utcOffset=5.5" alt="TAGISWILD productive time" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TAGISWILD&theme=react-dark&hide_border=true&area=true" alt="TAGISWILD contribution activity graph" />
+</p>
