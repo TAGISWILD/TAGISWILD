@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,55:2563eb,100:14b8a6&height=170&section=header&text=Atharva%20Chauhan&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=TAGISWILD%20%7C%20building%20useful%20things%20fast&descAlignY=58&descSize=15" alt="Atharva Chauhan - TAGISWILD" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=34&duration=2400&pause=700&color=58A6FF&center=true&vCenter=true&width=920&height=95&lines=Atharva+Chauhan;TAGISWILD+%7C+Java+%2B+Spring+Boot;Building+fast%2C+useful+systems" alt="Atharva Chauhan - TAGISWILD" />
 </p>
 
 <h3 align="center">Builder, student, and founder at EthicCode Technologies.</h3>
@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,c,ts,py,go,nextjs,react,nodejs,mongodb,postgres,docker,gcp,linux,git&perline=8" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=java,spring,c,ts,py,go,nextjs,react,nodejs,mongodb,postgres,docker,kubernetes,gcp,linux,git&perline=8" alt="Tech stack" />
 </p>
 
 <p align="center">
