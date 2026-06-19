@@ -30,8 +30,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TAGISWILD&theme=github_dark" alt="TAGISWILD GitHub stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TAGISWILD&theme=github_dark&utcOffset=5.5" alt="TAGISWILD productive time" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TAGISWILD&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="TAGISWILD GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=TAGISWILD&theme=github-dark-blue&hide_border=true" alt="TAGISWILD GitHub streak" />
 </p>
 
 <p align="center">
